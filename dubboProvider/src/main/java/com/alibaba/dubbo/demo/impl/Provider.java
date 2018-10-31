@@ -5,7 +5,7 @@ import java.io.IOException;
 import org.springframework.context.support.ClassPathXmlApplicationContext;
 
 /**
- * Created by wy on 2017/4/13.
+ * Created by wr on 2018/10/31.
  */
 public class Provider {
         public static void main(String[] args) throws IOException {
